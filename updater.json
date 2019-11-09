@@ -33,5 +33,40 @@
         "dialog_message": "There is new version available, please update the app to continue using it.",
         "positive_button": "Update"
       }
+    },
+    {
+      "image_link": "https://lh3.googleusercontent.com/DdGcPVh9kkUSdL2dKAUcGmejPXaNwnfbS5y5XtMFsXVST-GThQVzlwGgwwj7yOpII6-T=s180-rw",
+      "name": "HBB Mali",
+      "rating": 5,
+      "app_link": "https://play.google.com/store/apps/details?id=com.eksire.buddy",
+      "package_name": "com.appen.eksire.hbb",
+      "description": "Buddy - The app that will boost your student life in Stavanger, Norway.",
+      "min_version": 1,
+      "current_version": 1,
+      "show_in_dialog": true,
+      "redirect_details": {
+        "enable": false,
+        "hard_redirect": false,
+        "dialog_title": "Redirect Notice",
+        "dialog_message": "We have uploaded our app to new location",
+        "positive_button": "Redirect",
+        "negative_button": "Cancel",
+        "app_link": "https://www.buddyapp.no/"
+      },
+      "soft_update_details": {
+        "enable": true,
+        "dialog_show_count": 3,
+        "notification_show_count": 3,
+        "dialog_title": "Update Required!",
+        "dialog_message": "There is new version available, please update the app to experience a hassle free usage.",
+        "positive_button": "Update",
+        "negative_button": "Cancel"
+      },
+      "hard_update_details": {
+        "enable": true,
+        "dialog_title": "Update Required!",
+        "dialog_message": "There is new version available, please update the app to continue using it.",
+        "positive_button": "Update"
+      }
     }
 ]
