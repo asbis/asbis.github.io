@@ -35,14 +35,14 @@
       }
     },
     {
-      "image_link": "https://lh3.googleusercontent.com/DdGcPVh9kkUSdL2dKAUcGmejPXaNwnfbS5y5XtMFsXVST-GThQVzlwGgwwj7yOpII6-T=s180-rw",
+      "image_link": "https://lh3.googleusercontent.com/DqGRKW1r76GP3iIwFRuzSyaoPLpedtCjCGjcFAbRh0HIETgMvDGEfYmfGqiDtqVhR_UC=s180-rw",
       "name": "HBB Mali",
       "rating": 5,
-      "app_link": "https://play.google.com/store/apps/details?id=com.eksire.buddy",
-      "package_name": "com.appen.eksire.hbb",
-      "description": "Buddy - The app that will boost your student life in Stavanger, Norway.",
-      "min_version": 3,
-      "current_version": 3,
+      "app_link": "https://play.google.com/store/apps/details?id=com.eksire.hbb_mali",
+      "package_name": "com.eksire.hbb_mali",
+      "description": "HBB Mali - An application to help new borns in Mali",
+      "min_version": 5,
+      "current_version": 5,
       "show_in_dialog": true,
       "redirect_details": {
         "enable": false,
@@ -51,7 +51,7 @@
         "dialog_message": "We have uploaded our app to new location",
         "positive_button": "Redirect",
         "negative_button": "Cancel",
-        "app_link": "https://www.buddyapp.no/"
+        "app_link": "https://www.eksire.com/"
       },
       "soft_update_details": {
         "enable": true,
