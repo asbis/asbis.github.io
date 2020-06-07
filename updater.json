@@ -6,8 +6,8 @@
       "app_link": "https://play.google.com/store/apps/details?id=com.eksire.buddy",
       "package_name": "com.eksire.buddy",
       "description": "Buddy - The app that will boost your student life in Stavanger, Norway.",
-      "min_version": 8,
-      "current_version": 8,
+      "min_version": 16,
+      "current_version": 16,
       "show_in_dialog": true,
       "redirect_details": {
         "enable": false,
